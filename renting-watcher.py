@@ -12,7 +12,11 @@ querystring = {
     "zoom": "16",
     "transport": "walk",
     "minute": "30",
+<<<<<<< HEAD
     "price": '0,4500',
+=======
+    # "price": '0,4000',  # 价格区间
+>>>>>>> 3b0b965fe84b306525f65e0fbd2b141e426e5dfd
     # "type": "1|10|29"
 }
 
